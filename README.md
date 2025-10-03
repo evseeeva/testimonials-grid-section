@@ -3,7 +3,7 @@
 Frontend mentor challenge #8
 
 ![Design preview](design/desktop-design.jpg)
-[Live preview]()
+[Live preview](https://testimonials-grid-section-one-tau.vercel.app/)
 
 Used instruments:
 
