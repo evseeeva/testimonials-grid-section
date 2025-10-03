@@ -31,7 +31,7 @@
     flex-direction: column;
     min-height: 100vh;
 
-    background-color: var(--gray-100);
+    background-color: var(--white);
 
     font-family: "Barlow Semi Condensed", sans-serif;
     font-weight: var(--font-weight-base);
@@ -76,7 +76,7 @@
     padding: var(--spacing);
     background-color: var(--card-background);
     border-radius: 10px;
-    box-shadow: var(--spacing) var(--spacing) 20px 0px var(--card-shadow);
+    box-shadow: calc(var(--spacing)) var(--spacing) 30px 0px var(--card-shadow), 0 0 20px  -5px var(--gray-100);
     color: var(--text-card);
     height: 100%;
 }
